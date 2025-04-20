@@ -22,9 +22,3 @@ Este site apresenta a nova **Trilha de CSS da DIO**, com uma estrutura simples e
 
 ---
 
-## 📷 Captura de tela
-
-> Você pode adicionar aqui uma captura de tela do seu projeto. Para isso, basta fazer o upload de uma imagem no repositório (exemplo: na pasta `images/`) e usar o seguinte código Markdown:
-
-```markdown
-![Visual do site](images/captura-site.png)
